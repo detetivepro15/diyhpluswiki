@@ -167,6 +167,10 @@ signal - GNAT3, TRPM5, PLCB2
 
 bitterness - TAS2R4, TAS2R5, TAS2R16, TAS2R8, TAS2R38, TAS2R48 see also <a href="https://www.biorxiv.org/content/early/2018/04/06/296269">ref</a>
 
+### Increased metabolism
+
+PGC-1alpha <a href="https://www.sciencedirect.com/science/article/pii/S2212877824000991">Adaptive gene expression of alternative splicing variants of PGC-1α regulates whole-body energy metabolism</a>
+
 ### Sprinting vs. endurance
 
 ACTN3 - <a href="http://snpedia.com/index.php/Rs1815739">rs1815739</a>
@@ -875,6 +879,8 @@ Abbreviations: ACE, angiotensin-converting enzyme; ACTN3, actinin binding protei
 
 4-5 hours of sleep/night, plus resistance to sleep deprivation -- see <http://gnusha.org/logs/2016-11-25.log>
 
+* hSIK3 - [A mutation in salt-induced kinase 3 (hSIK3-N783Y) is identified in a human subject exhibiting the natural short sleep duration trait.](https://www.pnas.org/doi/10.1073/pnas.2500356122)
+
 "The transcriptional repressor DEC2 regulates sleep length in mammals" <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2884988/> (hDEC2-P385R)
 
 * DEC2 BHLHE41 Y362H (a second DEC2 mutation) is also associated with short sleep and resistance to sleep deprivation, see "A novel BHLHE41 variant is associated with short sleep and resistance to sleep deprivation in humans" <https://go.aastweb.org/Resources/journalclub/journalcluboctober2014.pdf>
@@ -1019,6 +1025,8 @@ What about radiation resistance? Here's a case in the literature where radiation
 * voluntary infertility (you'd be making a bet on the development of assisted reproduction technologies in the future, such as creating sperm or eggs from skin cells) (many infertility-causing mutations are known)
 
 * optional or delayed puberty (trigger puberty later or whenever the child wants- wait 5 years? 20 years?)
+
+* fertility upregulation, such as early ovarian hypertrophy during gestation, enhanced ovarian reserves such as through <a href="https://www.nature.com/articles/ncomms2861">Foxo3 overexpression</a>
 
 * blood types
 
