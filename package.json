@@ -1,0 +1,30 @@
+{
+  "name": "sinfonia-do-amor-sobrenatural",
+  "version": "1.0.0",
+  "description": "An interactive meditation music player with Web Audio API visualizer and theological reflection",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext .jsx,.js",
+    "format": "prettier --write src"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "tailwindcss": "^3.4.0",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "vite": "^5.0.7",
+    "eslint": "^8.54.0",
+    "eslint-plugin-react": "^7.33.2",
+    "prettier": "^3.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
