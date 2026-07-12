@@ -1,5 +1,26 @@
-# vim editor leftovers
-.*.sw*
-\.*
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-debug.log
+
+# Production
+dist/
+build/
+
+# Misc
+.DS_Store
+*.env
+*.env.local
+*.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
 *~
-*pyc
+
+# Test
+coverage/
+.nyc_output/
